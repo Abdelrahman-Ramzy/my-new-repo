@@ -4,7 +4,6 @@ This guide walks you through creating a local Git repository and uploading it to
 
 ## Step 1: Create a Local Repository
 
-`bash`
 `mkdir my-new-repo`
 `cd my-new-repo`
 `git init`
@@ -35,6 +34,3 @@ Replace <USERNAME> and <REPO> with your info:
 `git remote add origin https://github.com/<USERNAME>/<REPO>.git`
 `git branch -M main`
 `git push -u origin main`
-
-
-
