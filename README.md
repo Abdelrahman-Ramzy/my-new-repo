@@ -8,7 +8,7 @@ This guide walks you through creating a local Git repository and uploading it to
 `cd my-new-repo`
 `git init`
 
-## Step 2: Create a README File
+## Step 2: Create A README File
 
 echo "# My Project Title" > README.md
 
